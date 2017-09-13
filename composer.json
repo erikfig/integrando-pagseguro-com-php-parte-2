@@ -1,5 +1,5 @@
 {
-    "name": "son/br-payment-gateways",
+    "name": "erikfig/br-payment-gateways",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^6.2"
